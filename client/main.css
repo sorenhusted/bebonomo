@@ -1,1 +1,49 @@
 /* CSS declarations go here */
+h1 {
+    font-family: "Amatic SC", Helvetica, Arial, Serif;
+    font-size: 60px;
+    margin: 0px !important;
+    font-weight: normal;
+}
+h2 {
+    font-family: "Amatic SC", Helvetica, Arial, Serif;
+    font-size: 48px;
+}
+
+p {
+  font-family: "Amatic SC",Helvetica,Arial,sans-serif;
+  font-size:24px;
+}
+
+.body {
+  background-image:url('http://www.bebonomo.dk/billeder/website_BG.png');
+  background-repeat: repeat;
+  background-size: cover;
+  height: 100%;
+  background-position: center top;
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+/*Mail Chimp Form */
+#mc_embed_signup {
+  background:rgba(0, 0, 0, 0.0);
+  clear:left;
+  font:24px;
+  font-family: "Amatic SC",Helvetica,Arial,sans-serif;
+  widtH: 100% !important;
+}
+
+.mc-field-group {
+  width: 100% !important;
+}
+
+#mc-embedded-subscribe-form {
+  text-align: center !important;
+}
+
+img {
+      display: block;
+      height: auto;
+      max-width: 100%;
+}
